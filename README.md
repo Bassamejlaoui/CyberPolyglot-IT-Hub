@@ -3,7 +3,6 @@
 - [About](#about)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
-- 
 ## About
 
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
