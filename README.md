@@ -82,6 +82,11 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
 
+### :octocat: Bonus From BioInformatics Curriculum 😋
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+
 
 ### Single Variable Calculus
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
@@ -94,6 +99,11 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+
+### :octocat: Bonus From BioInformatics Curriculum 😋
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
 
 ### Multivariable Calculus
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
@@ -120,6 +130,15 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
+
+### :octocat: Bonus From BioInformatics Curriculum 😋
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
+MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
+MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
+MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
+
 
 ### Data Science Tools & Methods
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
