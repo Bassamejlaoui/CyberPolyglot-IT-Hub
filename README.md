@@ -3,8 +3,7 @@
 - [About](#about)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
-- [Prerequisites](#prerequisites)
-
+- 
 ## About
 
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
@@ -25,7 +24,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-### Bonus 😋 From the Computer Science Curriculum
+### :octocat: Bonus From the Computer Science Curriculum 😋
 ### Introduction to Programming
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 **Topics covered**:
@@ -71,7 +70,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
 
-### Bonus 😋 From Computer Science Curriculum
+### :octocat: Bonus From Computer Science Curriculum 😋
 ### Core applications
 
 **Topics covered**:
@@ -121,7 +120,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
-### Bonus 😋 From The Maths Curriculum
+### :octocat: Bonus From The Maths Curriculum 😋
 ### Probability & Statistics
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
 
@@ -151,7 +150,7 @@ Courses | Duration | Effort | Prerequisites
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
-### Bonus 😋 From BioInformatics Curriculum
+### :octocat: Bonus From BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
