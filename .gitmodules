@@ -1,3 +1,6 @@
 [submodule "path/to/destination"]
 	path = path/to/destination
 	url = https://github.com/yangshun/tech-interview-handbook.git
+[submodule "Projects/path/to/Projects"]
+	path = Projects/path/to/Projects
+	url = https://github.com/karan/Projects
