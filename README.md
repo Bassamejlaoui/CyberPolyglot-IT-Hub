@@ -290,3 +290,25 @@ Code | Course | Duration | Effort
 COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
 Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
+
+
+
+# Bonus From Maths Curriculum
+# Curriculum
+
+The curriculum is separated into two parts:
+
+- [Core Mathematics](#core-mathematics)
+  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
+  - [Calculus](#calculus)
+  - [Introduction to Differential Equations](#introduction-to-differential-equations)
+  - [Linear Algebra](#linear-algebra)
+  - [Probability & Statistics](#probability--statistics)
+  - [Introduction to Analysis](#introduction-to-analysis)
+  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
+- [Advanced Topics](#advanced-topics)
+  - [Differential Equations](#differential-equations)
+  - [Mathematical Logic](#mathematical-logic)
+  - [Probability and Statistics](#probability-and-statistics)
+  - [Mathematical Analysis](#mathematical-analysis)
+  - [Abstract Algebra](#abstract-algebra)
