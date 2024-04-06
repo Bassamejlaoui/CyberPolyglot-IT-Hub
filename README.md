@@ -289,6 +289,33 @@ COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/in
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
 Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
 
+We also have **labels** to help you have more control through the process. The meaning of each of these labels is:
+
+- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
+- `Extra Courses`: cards with that label represent courses that was added by the student.
+- `Doing`: cards with that label represent courses the student is current doing.
+- `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
+- `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the *Course's cards* below its respective *Section's card*.
+- `Extra Sections`: cards with that label represent sections that was added by the student.
+
+The intention of this board is to provide for our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be **public** or **private**.
+
+### Should I take all courses?
+
+**Yes!** The intention is to conclude **all** the courses listed here! Also we highly encourage you to complete more by reading papers and attending research projects after your coursework is done.
+### Which programming languages should I use?
+
+List of skills:
+- C/C++
+- Unix System
+- Python/Perl
+- R
+- Algorithms
+
+These skills mentioned above are the very essential tool set that bioinformatician and computational biologist depends on.
+
+The **important** thing for each course is to **internalize** the **core concepts** and to be able to use them with whatever tool (programming language) that you wish.
+
 
 
 # Bonus From Maths Curriculum
