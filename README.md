@@ -25,6 +25,7 @@ _Students who already know basic programming in any language can skip this first
 **Introduction to Computer Science**
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 **Topics covered**:
+
 `computation`
 `imperative programming`
 `basic data structures and algorithms`
@@ -61,6 +62,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 ### Core applications
 
 **Topics covered**:
+
 `Agile methodology`
 `REST`
 `software specifications`
@@ -122,6 +124,7 @@ MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/col
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
 
 **Topics covered:**
+
 `Random variables`
 `Expectation and Variance`
 `Probability Distributions`
