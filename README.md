@@ -312,3 +312,34 @@ The curriculum is separated into two parts:
   - [Probability and Statistics](#probability-and-statistics)
   - [Mathematical Analysis](#mathematical-analysis)
   - [Abstract Algebra](#abstract-algebra)
+
+## Advanced Topics
+
+Upon finishing **all the core mathematics courses**, students can choose to take elective courses in advanced topics of their choice. It is not necessary to take *every* course within a subcategory, but it is recommended to take courses relevant to the intended field of study.
+
+To complete your study of Advanced Topics, meet both the Breadth and Depth requirements.
+
+- **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
+- **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic.
+
+### Mathematical Logic
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
+
+### Geometry and Topology
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), Set Theory, Knowledge of axiomatic branch of mathematics such as [Introduction to Abstract Algebra](#introduction-to-abstract-algebra) 
+[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1C, Linear Algebra
+[Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
+[Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
+
+### Probability and Statistics
+Combinatorics, probability, statistics, game theory, applied stats
+
+### Mathematical Analysis
+Real analysis, numerical analysis, complex analysis, optimization theory
+
+### Abstract Algebra
+Abstract algebra, category theory, algebraic geometry and topology
