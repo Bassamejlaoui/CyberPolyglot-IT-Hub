@@ -9,6 +9,10 @@ This is a path for those of you who want to complete the Data Science undergradu
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
+## Prerequisites
+
+The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+
 ## Curriculum
 
 ### Introduction to Data Science
@@ -236,12 +240,6 @@ Some courses can be taken in parallel, while others must be taken sequentially. 
 ### Which programming languages should I use?
 
 Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
-
-## Prerequisites
-
-The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
-
-
 
 ### Optional Bioinformatics Courses
 
