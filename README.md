@@ -21,7 +21,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-### :octocat: Bonus From the Computer Science Curriculum 😋
+### :octocat: Bonus From the 🎓Computer Science Curriculum 😋
 **Introduction to Computer Science**
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 **Topics covered**:
@@ -57,7 +57,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
 
-### :octocat: Bonus From Computer Science Curriculum 😋
+### :octocat: Bonus From 🎓Computer Science Curriculum 😋
 ### Core applications
 
 **Topics covered**:
@@ -82,7 +82,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
 
-### :octocat: Bonus From BioInformatics Curriculum 😋
+### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
@@ -100,7 +100,7 @@ COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-datab
 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-### :octocat: Bonus From BioInformatics Curriculum 😋
+### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
@@ -117,7 +117,7 @@ MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/col
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
-### :octocat: Bonus From The Maths Curriculum 😋
+### :octocat: Bonus From The 🧮Maths Curriculum 😋
 ### Probability & Statistics
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
 
@@ -131,7 +131,7 @@ Courses | Duration | Effort | Prerequisites
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
-### :octocat: Bonus From BioInformatics Curriculum 😋
+### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
@@ -156,7 +156,7 @@ MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesi
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
-### :octocat: Bonus From BioInformatics Curriculum 😋
+### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
