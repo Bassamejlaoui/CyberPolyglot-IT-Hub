@@ -352,14 +352,6 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
-### Geometry and Topology
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), Set Theory, Knowledge of axiomatic branch of mathematics such as [Introduction to Abstract Algebra](#introduction-to-abstract-algebra) 
-[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1C, Linear Algebra
-[Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
-[Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
-
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
 
