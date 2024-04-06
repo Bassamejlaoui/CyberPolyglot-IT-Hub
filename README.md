@@ -97,7 +97,19 @@ COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-datab
 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
+### :octocat: Bonus From The 🧮Maths Curriculum 😋
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
+
+
 ### Linear Algebra
+**Topics covered:**
+`Vector and matrix calculations`
+`Linear transformations`
+`Vector spaces`
+`Eigenvalues and Eigenvectors`
+
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -119,6 +131,7 @@ MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/col
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
+
 ### :octocat: Bonus From The 🧮Maths Curriculum 😋
 ### Probability & Statistics
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
@@ -133,6 +146,22 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
+
+### :octocat: Bonus From The 🧮Maths Curriculum 😋
+
+### Introduction to Analysis
+Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
+
+**Topics covered:**
+
+`Proofs`
+`Real analysis`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | 14 weeks | 8-10 hours/week | Multivariable Calculus
+[Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
+
 
 ### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
