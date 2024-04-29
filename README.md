@@ -1,7 +1,9 @@
-[![MOSU - Master IT ](https://img.shields.io/badge/MOSU-MasterIT-yellow.svg)](https://github.com/mejbass/MOSU)
+[![Master IT - Mejbass ](https://img.shields.io/badge/MasterIT-Mejbass-yellow.svg)](https://github.com/mejbass/MOSU)
 ## Contents
 
 - [About](#about)
+- [Prerequisites](#prerequisites)
+- [Curricular Guideline](#curricular-guideline)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
 ## About
@@ -13,6 +15,10 @@ In our curriculum, we give preference to MOOC (Massive Open Online Course) style
 ## Prerequisites
 
 The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+
+## Curricular Guideline
+
+OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) as our guide for course recommendation
 
 ## Curriculum
 
