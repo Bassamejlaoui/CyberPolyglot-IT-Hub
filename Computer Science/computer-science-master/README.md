@@ -499,6 +499,9 @@ What is next for you? The possibilities are boundless and overlapping:
 
 [Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
+### Duration
+It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1igTrIB67GMMURo7cmbEnwLdknvJcg6-p3oRHpKOO6vo/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
+
 # Team
 
 * **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
