@@ -4,6 +4,7 @@
 - [About](#about)
 - [Prerequisites](#prerequisites)
 - [Curricular Guideline](#curricular-guideline)
+- [Motivation & Preparation](#motivation--preparation)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
 ## About
@@ -11,6 +12,20 @@
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
+
+## Motivation & Preparation
+
+Here are two interesting links that can make **all** the difference in your journey.
+
+The first one is a motivational video that shows a guy that went through the "MIT Challenge", which consists of learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
+
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+
+The second link is a MOOC that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. These are **fundamental abilities** to succeed in our journey.
+
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+**Are you ready to get started?**
 
 ## Prerequisites
 
