@@ -9,8 +9,9 @@
 - [Prerequisites](#prerequisites)
 - [Curricular Guideline](#curricular-guideline)
 - [Motivation & Preparation](#motivation--preparation)
-- [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
+- [Curriculum](#curriculum)
+
 ## About
 
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
@@ -38,6 +39,21 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 ## Curricular Guideline
 
 OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) as our guide for course recommendation
+
+## Which programming languages should I use?
+
+Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
+
+## How to use this guide
+
+### Duration
+It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1qtMvLUEZ971iWjt3MN-hQr8hMT6K9EaNy9Nu7UTtUHs/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
+
+### Order of the classes
+
+Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
+
+![topic_progression_graph](https://github.com/Bassamejlaoui/CyberPolyglot-IT-Hub/assets/130122304/9e52756d-9848-4f2b-8f6f-34f4c97a2d21)
 
 ## Curriculum
 
@@ -77,9 +93,19 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Java Programming](https://java-programming.mooc.fi/)
 
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+[Algorithms, Part I(Coursera)](https://www.coursera.org/learn/algorithms-part1) 
 
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+[Algorithms I: ArrayLists, LinkedLists, Stacks and Queues(Edx)](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
+
+
+[Algorithms, Part II(Coursera)](https://www.coursera.org/learn/algorithms-part2)
+
+[Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps(Edx)](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
+
+[Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
+
+[Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
+
 
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
@@ -180,15 +206,15 @@ Courses | Duration | Effort
 ### Statistics & Probability
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
-[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-[Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
+[Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)
 
-[Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 weeks | - hours/week
+[Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
@@ -331,22 +357,6 @@ Courses | Duration | Effort | Prerequisites
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
-
-
-## How to use this guide
-
-### Duration
-It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
-
-### Order of the classes
-
-Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
-
-![Topic Progression Graph](topic_progression_graph.jpg)
-
-### Which programming languages should I use?
-
-Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
 ### Optional Bioinformatics Courses
 
