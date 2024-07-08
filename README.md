@@ -82,19 +82,15 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alternative](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 This course has been developed by MIT and is available from three different places. We recommend you to do it from the archived version on Edx.
 > 6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
-
-> **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
 > 
-> Alternative Links:
-- <https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>
-- <https://www.edx.org/course/introduction-to-computer-science-and-programming-7> (instructor-paced version, runs three times a year)
+[MITx 6.00.1x + 2T2018](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)
+
 
 
 ### Data Structures and Algorithms
@@ -393,9 +389,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Cryptography I](https://imp.i384100.net/DVm9ej)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
-
-## Specializations
-
 * [Udacity](#udacity)
   * [Machine Learning Nanodegree by Google](#machine-learning-nanodegree-by-google) 
   * [Data Scientist Nanodegree](#data-scientist-nanodegree)
@@ -406,8 +399,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
  * [Machine Learning Specialization](#machine-learning-specialization)
  * [Data Science Specialization](#data-science-specialization)
 * [FutureLearn](#futurelearn)
-
----
 
 ### Udacity
 
