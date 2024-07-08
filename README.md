@@ -268,6 +268,13 @@ MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesi
 
 ### Data Science Tools & Methods
 
+[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+
+[Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+
+[Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
+
+
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
@@ -275,12 +282,6 @@ COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/W
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
 Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
 
-
-[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
-
-[Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
-
-[Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
 
 ### Machine Learning/Data Mining
 [Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -290,6 +291,13 @@ Extension | [Genomic Data Science Specialization](https://www.coursera.org/speci
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
+
+[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+
+[Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
+
+[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+
 
 Courses | Duration | Effort
 :-- | :--: | :--:
