@@ -109,6 +109,7 @@ Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
 COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
+COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
 
 
 ### Databases
@@ -366,3 +367,70 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Machine Learning](https://imp.i384100.net/YgYEBJ) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
+[Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
+[Cryptography I](https://imp.i384100.net/DVm9ej)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
+
+# Data Science - Specializations
+
+## Specializations
+
+* [Udacity](#udacity)
+  * [Machine Learning Nanodegree by Google](#machine-learning-nanodegree-by-google) 
+  * [Data Scientist Nanodegree](#data-scientist-nanodegree)
+* [edX](#edx)
+  * [Data Science and Engineering with Apache Spark](#data-science-and-engineering-with-apache-spark)
+* [Coursera](#coursera)
+ * [Data Mining Specialization](#data-mining-specialization)
+ * [Machine Learning Specialization](#machine-learning-specialization)
+ * [Data Science Specialization](#data-science-specialization)
+* [FutureLearn](#futurelearn)
+
+---
+
+### Udacity
+
+#### Machine Learning Nanodegree by Google
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)| - weeks | 10 hours/week
+
+#### Data Scientist Nanodegree
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| - weeks | 10 hours/week
+
+### edX
+
+#### Data Science and Engineering with Apache Spark
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Data Science and Engineering with Apache Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apache-spark)| - weeks | 10 hours/week
+
+### Coursera
+
+#### Data Mining Specialization
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Data Mining](https://www.coursera.org/specializations/data-mining)| - weeks | 8-12 hours/week
+
+#### Machine Learning Specialization
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Machine Learning](https://www.coursera.org/specializations/machine-learning)| - weeks | 8-12 hours/week
+
+#### Data Science Specialization
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Statistics with R](https://www.coursera.org/specializations/statistics)| - weeks | - hours/week
+[Data Science at Scale](https://www.coursera.org/specializations/data-science)| 17 weeks | 6-8 hours/week
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | - weeks | 4-9 hours/week
+
+### FutureLearn
+
+#### Big Data
+Course | Duration | Effort
+:-- | :--: | :--: 
+[Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics)| 8 weeks | - hours/week
