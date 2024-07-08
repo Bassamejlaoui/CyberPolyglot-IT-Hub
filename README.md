@@ -381,7 +381,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Cryptography I](https://imp.i384100.net/DVm9ej)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
-# Data Science - Specializations
 
 ## Specializations
 
@@ -461,4 +460,3 @@ Name | Author(s)
 [Compiler Construction](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html) | Niklaus Wirth 
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
-
