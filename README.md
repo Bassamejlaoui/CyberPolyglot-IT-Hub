@@ -87,6 +87,15 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alternative](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
+This course has been developed by MIT and is available from three different places. We recommend you to do it from the archived version on Edx.
+> 6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
+
+> **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
+> 
+> Alternative Links:
+- <https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>
+- <https://www.edx.org/course/introduction-to-computer-science-and-programming-7> (instructor-paced version, runs three times a year)
+
 
 ### Data Structures and Algorithms
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
@@ -210,6 +219,9 @@ Courses | Duration | Effort
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 10 weeks | 15 hours/week
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
+
+[Py4e](https://www.py4e.com/lessons)
+[Py4e Textbook](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) / [EPUB](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.epub) / [HTML](https://www.py4e.com/html3) / [Buy hardcopy](https://www.py4e.com/book)
 
 ### Statistics & Probability
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
