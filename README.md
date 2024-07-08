@@ -1,3 +1,9 @@
+## About
+
+This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
+
+In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
+
 [![Master IT   -   Mejbass     ](https://img.shields.io/badge/MasterIT-Mejbass-yellow.svg)](https://github.com/mejbass/Master-IT)
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
 
@@ -10,13 +16,7 @@
 - [Curricular Guideline](#curricular-guideline)
 - [Motivation & Preparation](#motivation--preparation)
 - [How to use this guide](#how-to-use-this-guide)
-- [Curriculum](#curriculum)
-
-## About
-
-This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
-
-In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
+- [Curriculum](#curriculum)  
 
 ## Motivation & Preparation
 
@@ -42,7 +42,7 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 
 ## Which programming languages should I use?
 
-Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
+Python, Java and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
 ## How to use this guide
 
@@ -67,21 +67,21 @@ Courses | Duration | Effort
 [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
 
 ### Introduction to Computer Science
-_Students who already know basic programming in any language can skip this first course_
-
-[Introduction to programming](coursepages/intro-programming/README.md)
-
-[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-
-### :octocat: Bonus From the 🎓Computer Science Curriculum 😋
-**Introduction to Computer Science**
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
+
 **Topics covered**:
 
 `computation`
 `imperative programming`
 `basic data structures and algorithms`
 `and more`
+
+_Students who already know basic programming in any language can skip this first course_
+
+[Introduction to programming](coursepages/intro-programming/README.md)
+
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -97,7 +97,6 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues(Edx)](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
-
 [Algorithms, Part II(Coursera)](https://www.coursera.org/learn/algorithms-part2)
 
 [Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps(Edx)](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
@@ -105,6 +104,11 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
 
 [Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
+
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
+COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
 
 
 ### Databases
@@ -124,7 +128,10 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - weeks | 8-12 hours/week
 
-### :octocat: Bonus From 🎓Computer Science Curriculum 😋
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+
 ### Core applications
 
 **Topics covered**:
@@ -150,10 +157,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
 
-### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
+
 
 
 ### Single Variable Calculus
@@ -163,14 +170,16 @@ COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-datab
 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
-### :octocat: Bonus From The 🧮Maths Curriculum 😋
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
 
 ### Linear Algebra
+
 **Topics covered:**
+
 `Vector and matrix calculations`
 `Linear transformations`
 `Vector spaces`
@@ -186,8 +195,6 @@ Courses | Duration | Effort
 [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
 [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
 
-
-### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
@@ -204,6 +211,14 @@ Courses | Duration | Effort
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
 ### Statistics & Probability
+Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
+
+**Topics covered:**
+
+`Random variables`
+`Expectation and Variance`
+`Probability Distributions`
+
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
@@ -218,25 +233,18 @@ Courses | Duration | Effort
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
 
-### :octocat: Bonus From The 🧮Maths Curriculum 😋
-### Probability & Statistics
-Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
-
-**Topics covered:**
-
-`Random variables`
-`Expectation and Variance`
-`Probability Distributions`
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
-### :octocat: Bonus From The 🧮Maths Curriculum 😋
-
 ### Introduction to Analysis
+
 Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
 
 **Topics covered:**
@@ -250,16 +258,23 @@ Courses | Duration | Effort | Prerequisites
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
 
 
-### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
-MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
+MATH 2314 | [Inferaential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
 MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
 MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
 
 
 ### Data Science Tools & Methods
+
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
+COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
+Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
+
+
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
 [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
@@ -281,13 +296,6 @@ Courses | Duration | Effort
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
 
-### :octocat: Bonus From 🔬BioInformatics Curriculum 😋
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
-COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
-COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
-Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
 
 
 ## Final project
@@ -358,122 +366,3 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
-### Optional Bioinformatics Courses
-
-### 1st Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-Py4E | [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week
-6.00.1x | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week
-MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
-MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week
-18.01.1x | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week
-18.01.2x | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week
-MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
-
-### 2nd Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-18.01.3x | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week
-6.042J | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([Solutions](https://github.com/spamegg1/Math-for-CS-solutions)) | 13 weeks | 5 hours/week
-COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
-18.06 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 14 weeks | 12 hours/week
-COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
-MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
-
-### 3rd Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
-COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
-MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
-MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
-MATH 3313 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/) | 7 Weeks | 8-10 Hours/Week
-
-### 4th Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
-### Extra Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
-COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
-Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
-
-We also have **labels** to help you have more control through the process. The meaning of each of these labels is:
-
-- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
-- `Extra Courses`: cards with that label represent courses that was added by the student.
-- `Doing`: cards with that label represent courses the student is current doing.
-- `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
-- `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the *Course's cards* below its respective *Section's card*.
-- `Extra Sections`: cards with that label represent sections that was added by the student.
-
-The intention of this board is to provide for our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be **public** or **private**.
-
-### Should I take all courses?
-
-**Yes!** The intention is to conclude **all** the courses listed here! Also we highly encourage you to complete more by reading papers and attending research projects after your coursework is done.
-### Which programming languages should I use?
-
-List of skills:
-- C/C++
-- Unix System
-- Python/Perl
-- R
-- Algorithms
-
-These skills mentioned above are the very essential tool set that bioinformatician and computational biologist depends on.
-
-The **important** thing for each course is to **internalize** the **core concepts** and to be able to use them with whatever tool (programming language) that you wish.
-
-
-
-# Bonus From Maths Curriculum
-# Curriculum
-
-The curriculum is separated into two parts:
-
-- [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
-  - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
-  - [Introduction to Analysis](#introduction-to-analysis)
-  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
-- [Advanced Topics](#advanced-topics)
-  - [Differential Equations](#differential-equations)
-  - [Mathematical Logic](#mathematical-logic)
-  - [Probability and Statistics](#probability-and-statistics)
-  - [Mathematical Analysis](#mathematical-analysis)
-  - [Abstract Algebra](#abstract-algebra)
-
-## Advanced Topics
-
-Upon finishing **all the core mathematics courses**, students can choose to take elective courses in advanced topics of their choice. It is not necessary to take *every* course within a subcategory, but it is recommended to take courses relevant to the intended field of study.
-
-To complete your study of Advanced Topics, meet both the Breadth and Depth requirements.
-
-- **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
-- **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic.
-
-### Mathematical Logic
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
-
-### Probability and Statistics
-Combinatorics, probability, statistics, game theory, applied stats
-
-### Mathematical Analysis
-Real analysis, numerical analysis, complex analysis, optimization theory
-
-### Abstract Algebra
-Abstract algebra, category theory, algebraic geometry and topology
