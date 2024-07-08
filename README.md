@@ -434,3 +434,23 @@ Course | Duration | Effort
 Course | Duration | Effort
 :-- | :--: | :--: 
 [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics)| 8 weeks | - hours/week
+
+## Applications
+
+Name | Author(s)
+:-- | :--:
+[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) | Joseph M. Hellerstein, Michael Stonebraker, James Hamilton
+[Readings in Database Systems (5th Edition)](http://www.redbook.io/) | Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
+[Database Management Systems (3rd Edition)](https://www.amazon.com/gp/product/0072465638) | Raghu Ramakrishnan, Johannes Gehrke
+[Transaction Processing: Concepts and Techniques](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902) | Jim Gray, Andreas Reuter
+[Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World (3rd Edition)](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) | William Kent
+[The Architecture of Open Source Applications](http://aosabook.org/en/) | Michael DiBernardo (editor)
+[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) | Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+[Deep Learning](http://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio and Aaron Courville
+[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) | David Barber
+[Language Implementation Patterns](https://www.amazon.com/gp/product/193435645X) | Terence Parr
+[Compilers: Principles, Techniques, and Tools (2nd Edition)](http://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/) | Alfred V. Aho, Monica S. Lam, Ravi Sethi,  Jeffrey D. Ullman
+[Compiler Construction](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html) | Niklaus Wirth 
+[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
+[Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
+
