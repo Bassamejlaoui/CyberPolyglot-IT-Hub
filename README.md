@@ -12,9 +12,9 @@ In our curriculum, we give preference to MOOC (Massive Open Online Course) style
 ## Contents
 
 - [About](#about)
+- [Motivation & Preparation](#motivation--preparation)
 - [Prerequisites](#prerequisites)
 - [Curricular Guideline](#curricular-guideline)
-- [Motivation & Preparation](#motivation--preparation)
 - [How to use this guide](#how-to-use-this-guide)
 - [Curriculum](#curriculum)  
 
@@ -42,7 +42,7 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 
 ## Which programming languages should I use?
 
-Python, Java and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
+Python, SQL and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
 ## How to use this guide
 
@@ -53,7 +53,7 @@ It is possible to finish within about 2 years if you plan carefully and devote r
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
 
-![topic_progression_graph](https://github.com/Bassamejlaoui/CyberPolyglot-IT-Hub/assets/130122304/9e52756d-9848-4f2b-8f6f-34f4c97a2d21)
+<img src="https://github.com/user-attachments/assets/650a5abb-b6dc-490b-a943-37f004d2f3b1" width="300" alt="Topic Progression Graph" />
 
 ## Curriculum
 
