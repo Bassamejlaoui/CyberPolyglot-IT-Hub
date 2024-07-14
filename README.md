@@ -4,7 +4,7 @@ This is a path for those of you who want to complete the Data Science undergradu
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
-[![Master IT   -   Mejbass     ](https://img.shields.io/badge/MasterIT-Mejbass-yellow.svg)](https://github.com/mejbass/Master-IT)
+[![CyberPolyglot IT Hub - Bassamejlaoui](https://img.shields.io/badge/CyberPolyglot%20IT%20Hub-Bassamejlaoui-yellow.svg)](https://github.com/Bassamejlaoui/CyberPolyglot-IT-Hub)
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
 
 ![image](https://github.com/mejbass/MASTER-IT/assets/130122304/783b3a23-535f-4ab2-80ae-9e31ccad495c)
@@ -38,7 +38,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ## Curricular Guideline
 
-OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) as our guide for course recommendation
+[Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) 
 
 ## Which programming languages should I use?
 
@@ -53,7 +53,7 @@ It is possible to finish within about 2 years if you plan carefully and devote r
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
 
-<img src="https://github.com/user-attachments/assets/650a5abb-b6dc-490b-a943-37f004d2f3b1" width="300" alt="Topic Progression Graph" />
+<img src="https://github.com/user-attachments/assets/650a5abb-b6dc-490b-a943-37f004d2f3b1" width="400" alt="Topic Progression Graph" />
 
 ## Curriculum
 
