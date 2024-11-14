@@ -126,6 +126,7 @@ Code | Course | Duration | Effort
 COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
 COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
+MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
 
 
 ### Databases
@@ -148,6 +149,8 @@ Courses | Duration | Effort
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
+COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
 
 ### Core applications
 
@@ -215,6 +218,12 @@ Courses | Duration | Effort
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
+
+
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+18.06 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 14 weeks | 12 hours/week
+
 
 ### Multivariable Calculus
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
