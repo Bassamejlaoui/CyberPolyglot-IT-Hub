@@ -91,6 +91,17 @@ This course has been developed by MIT and is available from three different plac
 > 
 [MITx 6.00.1x + 2T2018](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)
 
+### Introduction to Mathematical Thinking
+Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
+
+**Topics covered:**
+`Mathematical mindset`
+`Number Theory`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
 
 
 ### Data Structures and Algorithms
